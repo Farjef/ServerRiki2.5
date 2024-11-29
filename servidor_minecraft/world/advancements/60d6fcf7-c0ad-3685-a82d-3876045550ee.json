@@ -1369,6 +1369,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2024-11-29 03:42:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2024-11-08 01:19:07 +0000"
@@ -2202,6 +2208,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/horizontal_framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2024-11-29 03:42:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2024-11-02 03:10:01 +0000"
@@ -2502,6 +2514,12 @@
       "carrot": "2024-10-21 02:11:36 +0000"
     },
     "done": false
+  },
+  "create:recipes/create.palettes/vertical_framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2024-11-29 03:42:09 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
@@ -3754,6 +3772,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/inception_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-11-02 03:22:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/tiled_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2024-11-29 03:42:09 +0000"
     },
     "done": true
   },

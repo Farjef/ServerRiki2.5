@@ -213,3 +213,36 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated array at 
 [29Nov2024 03:33:47.692] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1fd02ac6
 [29Nov2024 03:33:47.699] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: guevaracj8[/127.65.61.5:36921] logged in with entity id 11045 at (6268.268632301417, 72.0, -595.9100299316933)
 [29Nov2024 03:33:47.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: guevaracj8 joined the game
+[29Nov2024 03:37:15.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Farjef: Teleported Farjef to guevaracj8]
+[29Nov2024 03:38:06.991] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/11340, l='ServerLevel[world]', x=6167.55, y=78.00, z=-540.70] died, message: 'Farmer was slain by Ravager'
+[29Nov2024 03:38:08.490] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/11308, l='ServerLevel[world]', x=6173.86, y=78.00, z=-541.36] died, message: 'Leatherworker was slain by Ravager'
+[29Nov2024 03:46:04.649] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: guevaracj8 lost connection: Disconnected
+[29Nov2024 03:46:04.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: guevaracj8 left the game
+[29Nov2024 03:46:52.493] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@66721953
+[29Nov2024 03:46:52.500] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: guevaracj8[/127.100.15.172:36823] logged in with entity id 15732 at (6256.952038853364, 72.0, -591.7352299493085)
+[29Nov2024 03:46:52.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: guevaracj8 joined the game
+[29Nov2024 03:49:42.745] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: guevaracj8 moved too quickly! 0.3025931357160516,-10.188594643186804,0.9689249192014131
+[29Nov2024 03:51:23.951] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[29Nov2024 03:51:41.028] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2103ms or 42 ticks behind
+[29Nov2024 03:51:51.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: guevaracj8 was impaled by Drowned
+[29Nov2024 03:51:57.012] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=6268, y=72, z=-598} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[29Nov2024 03:51:57.014] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=6270, y=76, z=-598} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[29Nov2024 03:53:25.075] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3550ms or 71 ticks behind
+[29Nov2024 03:53:42.820] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2095ms or 41 ticks behind
+[29Nov2024 03:56:43.895] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=6266, y=72, z=-597} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[29Nov2024 03:56:47.158] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=6266, y=72, z=-598} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[29Nov2024 03:57:08.571] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=6266, y=73, z=-598} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[29Nov2024 03:57:23.542] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2067ms or 41 ticks behind
+[29Nov2024 03:57:30.321] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6604b9f1
+[29Nov2024 03:58:43.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Farjef was slain by Enderman
+[29Nov2024 03:59:27.203] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Farjef moved too quickly! -7.457046733176867,0.1619897045195131,-6.825603938819086
+[29Nov2024 03:59:27.204] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2879ms or 57 ticks behind
+[29Nov2024 04:00:17.809] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[29Nov2024 04:01:26.000] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2125ms or 42 ticks behind
+[29Nov2024 04:01:44.224] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3249ms or 64 ticks behind
+[29Nov2024 04:02:02.644] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3469ms or 69 ticks behind
+[29Nov2024 04:02:28.138] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[29Nov2024 04:02:46.189] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3064ms or 61 ticks behind
+[29Nov2024 04:03:04.161] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2087ms or 41 ticks behind
+[29Nov2024 04:05:29.451] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[29Nov2024 04:05:51.538] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2063ms or 41 ticks behind
