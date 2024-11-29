@@ -258,3 +258,18 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated array at 
 [29Nov2024 04:34:08.767] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
 [29Nov2024 04:43:56.396] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: guevaracj8 lost connection: Disconnected
 [29Nov2024 04:43:56.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: guevaracj8 left the game
+[29Nov2024 05:02:04.836] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Farjef lost connection: Disconnected
+[29Nov2024 05:02:04.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Farjef left the game
+[29Nov2024 05:02:08.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[29Nov2024 05:02:08.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[29Nov2024 05:02:08.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[29Nov2024 05:02:08.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[29Nov2024 05:02:09.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[29Nov2024 05:02:09.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[29Nov2024 05:02:09.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/man:halucination
+[29Nov2024 05:02:09.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[29Nov2024 05:02:09.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[29Nov2024 05:02:09.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[29Nov2024 05:02:09.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (halucination): All chunks are saved
+[29Nov2024 05:02:09.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[29Nov2024 05:02:09.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
