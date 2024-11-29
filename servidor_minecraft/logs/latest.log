@@ -256,3 +256,5 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated array at 
 [29Nov2024 04:16:26.477] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3453ms or 69 ticks behind
 [29Nov2024 04:21:40.131] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2107ms or 42 ticks behind
 [29Nov2024 04:34:08.767] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[29Nov2024 04:43:56.396] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: guevaracj8 lost connection: Disconnected
+[29Nov2024 04:43:56.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: guevaracj8 left the game
