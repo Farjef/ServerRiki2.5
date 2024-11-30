@@ -5158,3 +5158,17 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated array at 
 [30Nov2024 16:40:17.267] [Server thread/DEBUG] [de.cadentem.goatman.Goatman/]: Goatman could not pass the spawn checks, target: [ServerPlayer['guevaracj8'/5033, l='ServerLevel[world]', x=6318.64, y=164.57, z=-627.54]]
 [30Nov2024 16:40:19.018] [Server thread/DEBUG] [de.cadentem.goatman.Goatman/]: Goatman could not pass the spawn checks, target: [ServerPlayer['guevaracj8'/5033, l='ServerLevel[world]', x=6319.05, y=130.45, z=-627.65]]
 [30Nov2024 16:40:20.518] [Server thread/DEBUG] [de.cadentem.goatman.Goatman/]: Goatman could not pass the spawn checks, target: [ServerPlayer['guevaracj8'/5033, l='ServerLevel[world]', x=6318.92, y=95.72, z=-627.63]]
+[30Nov2024 16:41:31.748] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3032ms or 60 ticks behind
+[30Nov2024 16:41:49.981] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2965ms or 59 ticks behind
+[30Nov2024 16:42:15.617] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Nov2024 16:42:15.623] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Nov2024 16:42:20.107] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2991ms or 59 ticks behind
+[30Nov2024 16:43:44.432] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind
+[30Nov2024 16:44:01.623] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2207ms or 44 ticks behind
+[30Nov2024 16:44:18.786] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2170ms or 43 ticks behind
+[30Nov2024 16:47:25.168] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Nov2024 16:47:25.173] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Nov2024 16:52:24.960] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Nov2024 16:52:24.964] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Nov2024 16:57:24.963] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Nov2024 16:57:24.968] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
