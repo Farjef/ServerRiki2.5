@@ -243,3 +243,18 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated array at 
 [30Nov2024 18:15:55.090] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=6270, y=76, z=-598} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
 [30Nov2024 18:15:55.090] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=6266, y=72, z=-598} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
 [30Nov2024 18:16:02.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Farjef was slain by Acolyte
+[30Nov2024 18:39:42.362] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Farjef lost connection: Disconnected
+[30Nov2024 18:39:42.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Farjef left the game
+[30Nov2024 18:40:17.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[30Nov2024 18:40:17.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[30Nov2024 18:40:17.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[30Nov2024 18:40:17.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[30Nov2024 18:40:17.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[30Nov2024 18:40:17.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[30Nov2024 18:40:17.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[30Nov2024 18:40:17.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/man:halucination
+[30Nov2024 18:40:17.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[30Nov2024 18:40:17.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[30Nov2024 18:40:17.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[30Nov2024 18:40:17.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (halucination): All chunks are saved
+[30Nov2024 18:40:17.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
