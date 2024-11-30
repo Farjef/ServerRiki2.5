@@ -165,3 +165,16 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated array at 
 [30Nov2024 15:51:15.553] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (3.161s)! For help, type "help"
 [30Nov2024 15:51:15.594] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [30Nov2024 15:51:15.664] [Server thread/WARN] [ModernFix/]: Dedicated server took 39.252 seconds to load
+[30Nov2024 16:04:25.039] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4c67a4fa
+[30Nov2024 16:04:25.057] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: guevaracj8[/127.45.3.85:34675] logged in with entity id 73 at (6269.249434543024, 76.0, -596.0453521250328)
+[30Nov2024 16:04:25.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: guevaracj8 joined the game
+[30Nov2024 16:04:25.676] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=6266, y=73, z=-598} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[30Nov2024 16:04:25.676] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=6268, y=72, z=-598} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[30Nov2024 16:04:25.677] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=6270, y=76, z=-598} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[30Nov2024 16:04:25.677] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=6266, y=72, z=-598} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[30Nov2024 16:04:26.521] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@48e6aac0
+[30Nov2024 16:06:45.646] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3680ms or 73 ticks behind
+[30Nov2024 16:07:37.759] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@38148c52
+[30Nov2024 16:07:42.693] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3627ms or 72 ticks behind
+[30Nov2024 16:09:28.675] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3359ms or 67 ticks behind
+[30Nov2024 16:10:41.818] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3352ms or 67 ticks behind
