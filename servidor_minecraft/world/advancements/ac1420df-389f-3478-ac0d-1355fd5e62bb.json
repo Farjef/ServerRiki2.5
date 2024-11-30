@@ -2996,15 +2996,15 @@
     },
     "done": true
   },
-  "create:recipes/create.base/crafting/materials/zinc_nugget_from_decompacting": {
-    "criteria": {
-      "has_item": "2024-11-29 04:21:02 +0000"
-    },
-    "done": true
-  },
   "create:recipes/create.palettes/layered_tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-11-29 03:29:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/zinc_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2024-11-29 04:21:02 +0000"
     },
     "done": true
   },
@@ -4353,15 +4353,15 @@
     },
     "done": true
   },
-  "create:shifting_gears": {
-    "criteria": {
-      "0": "2024-11-29 04:33:12 +0000"
-    },
-    "done": true
-  },
   "create:recipes/create.palettes/small_diorite_bricks_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-11-29 03:24:35 +0000"
+    },
+    "done": true
+  },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2024-11-29 04:33:12 +0000"
     },
     "done": true
   },
