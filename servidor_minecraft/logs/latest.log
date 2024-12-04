@@ -244,3 +244,20 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated array at 
 [04Dec2024 02:06:59.468] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3053ms or 61 ticks behind
 [04Dec2024 02:09:41.970] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3104ms or 62 ticks behind
 [04Dec2024 02:34:55.596] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Farjef moved too quickly! 0.0028394580740496167,-13.547505941346515,0.9229983571275397
+[04Dec2024 02:38:30.589] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Farjef moved too quickly! 1.5203591120234705,10.231739776410222,0.464990640293081
+[04Dec2024 02:38:30.592] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4176ms or 83 ticks behind
+[04Dec2024 02:39:14.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[04Dec2024 02:39:14.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[04Dec2024 02:39:14.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[04Dec2024 02:39:14.377] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Farjef lost connection: Server closed
+[04Dec2024 02:39:14.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Farjef left the game
+[04Dec2024 02:39:14.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[04Dec2024 02:39:15.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04Dec2024 02:39:15.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/man:halucination
+[04Dec2024 02:39:15.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04Dec2024 02:39:15.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04Dec2024 02:39:15.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04Dec2024 02:39:15.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (halucination): All chunks are saved
+[04Dec2024 02:39:15.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04Dec2024 02:39:15.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04Dec2024 02:39:15.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
