@@ -187,3 +187,19 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated array at 
 [04Dec2024 00:52:19.791] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: TOWWDelusionEntity['TOWW Delusion'/723, l='ServerLevel[world]', x=6224.84, y=-40.00, z=-756.18]
 [04Dec2024 00:52:33.878] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Farjef[/127.44.249.18:36917] logged in with entity id 763 at (6191.640772998576, 74.0, -635.6999999880791)
 [04Dec2024 00:52:33.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Farjef joined the game
+[04Dec2024 01:02:30.517] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2151ms or 43 ticks behind
+[04Dec2024 01:03:41.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Farjef> QLQ
+[04Dec2024 01:04:17.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <guevaracj8> todo bien bro
+[04Dec2024 01:04:45.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Farjef> diavlo, tremenda armadura
+[04Dec2024 01:05:05.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <guevaracj8> sisi me chete feo
+[04Dec2024 01:05:14.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Farjef> si vi, si vi
+[04Dec2024 01:05:27.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Farjef> me toca
+[04Dec2024 01:06:23.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: guevaracj8 has made the advancement [Not Today, Thank You]
+[04Dec2024 01:07:34.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Farjef> la granja dejo de generar monstruos?
+[04Dec2024 01:09:06.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <guevaracj8> nega pero cuando estamos los 2 se pone popy
+[04Dec2024 01:09:15.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Farjef> chale
+[04Dec2024 01:09:21.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Farjef> bueno, me chetare otro dia
+[04Dec2024 01:12:14.327] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5c893b33
+[04Dec2024 01:15:11.604] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Farjef moved too quickly! 0.0,-11.953794139966078,-0.039003612157557654
+[04Dec2024 01:15:13.557] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Farjef moved too quickly! 0.0,-11.314849834016997,0.0
+[04Dec2024 01:15:15.362] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Farjef moved too quickly! 0.10557616428468464,-10.826993141045818,-0.5989014167645337

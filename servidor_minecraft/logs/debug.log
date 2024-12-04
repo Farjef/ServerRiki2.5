@@ -4876,3 +4876,28 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated array at 
 [04Dec2024 00:52:33.879] [Server thread/DEBUG] [ModernFix/]: Sending ID correction packet to client with 86 classes
 [04Dec2024 00:52:33.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Farjef joined the game
 [04Dec2024 00:52:39.417] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:underground_house/underground_house_4
+[04Dec2024 00:57:33.338] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 00:57:33.428] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 00:58:22.124] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[04Dec2024 01:02:30.517] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2151ms or 43 ticks behind
+[04Dec2024 01:02:35.411] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 01:02:35.430] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 01:03:41.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Farjef> QLQ
+[04Dec2024 01:04:17.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <guevaracj8> todo bien bro
+[04Dec2024 01:04:45.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Farjef> diavlo, tremenda armadura
+[04Dec2024 01:05:05.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <guevaracj8> sisi me chete feo
+[04Dec2024 01:05:14.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Farjef> si vi, si vi
+[04Dec2024 01:05:27.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Farjef> me toca
+[04Dec2024 01:06:23.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: guevaracj8 has made the advancement [Not Today, Thank You]
+[04Dec2024 01:07:34.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Farjef> la granja dejo de generar monstruos?
+[04Dec2024 01:07:35.404] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 01:07:35.409] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 01:09:06.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <guevaracj8> nega pero cuando estamos los 2 se pone popy
+[04Dec2024 01:09:15.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Farjef> chale
+[04Dec2024 01:09:21.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Farjef> bueno, me chetare otro dia
+[04Dec2024 01:12:14.327] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5c893b33
+[04Dec2024 01:12:35.393] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 01:12:35.398] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 01:15:11.604] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Farjef moved too quickly! 0.0,-11.953794139966078,-0.039003612157557654
+[04Dec2024 01:15:13.557] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Farjef moved too quickly! 0.0,-11.314849834016997,0.0
+[04Dec2024 01:15:15.362] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Farjef moved too quickly! 0.10557616428468464,-10.826993141045818,-0.5989014167645337
