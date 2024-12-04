@@ -222,3 +222,18 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated array at 
 [04Dec2024 01:43:00.300] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=6270, y=76, z=-598} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
 [04Dec2024 01:43:00.300] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=6266, y=72, z=-598} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
 [04Dec2024 01:47:34.057] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2091ms or 41 ticks behind
+[04Dec2024 01:48:28.904] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Farjef moved too quickly! 0.0,-11.625300347782769,-0.06109759157754979
+[04Dec2024 01:48:30.394] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Farjef moved too quickly! 0.0,-11.026982712340185,-0.048810872158128404
+[04Dec2024 01:48:32.038] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Farjef moved too quickly! 0.0,-11.433643280623414,0.0
+[04Dec2024 01:48:33.477] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Farjef moved too quickly! 0.0,-11.2134039128713,0.0
+[04Dec2024 01:48:35.134] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Farjef moved too quickly! 0.0,-11.83217064529741,0.0
+[04Dec2024 01:48:58.272] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2207ms or 44 ticks behind
+[04Dec2024 01:49:23.793] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10527ms or 210 ticks behind
+[04Dec2024 01:49:41.465] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2400ms or 48 ticks behind
+[04Dec2024 01:50:10.312] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2196ms or 43 ticks behind
+[04Dec2024 01:51:37.901] [Server thread/WARN] [ModernFix/]: The namespace nova_structures contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[04Dec2024 01:51:37.901] [Server thread/INFO] [ModernFix/]: Instantiating Mojang DFU
+[04Dec2024 01:51:38.127] [Server thread/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
+[04Dec2024 01:51:44.000] [Server thread/WARN] [ModernFix/]: The namespace graveyard contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[04Dec2024 01:54:01.973] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: guevaracj8 lost connection: Disconnected
+[04Dec2024 01:54:01.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: guevaracj8 left the game
