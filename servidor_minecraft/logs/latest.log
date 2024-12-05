@@ -164,3 +164,6 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated array at 
 [05Dec2024 01:08:13.776] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (2.939s)! For help, type "help"
 [05Dec2024 01:08:13.798] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [05Dec2024 01:08:13.853] [Server thread/WARN] [ModernFix/]: Dedicated server took 23.746 seconds to load
+[05Dec2024 01:51:09.621] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@67605fa5
+[05Dec2024 01:51:09.651] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: guevaracj8[/127.45.3.85:60363] logged in with entity id 74 at (6472.638107927562, 31.0, -752.0946867666866)
+[05Dec2024 01:51:09.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: guevaracj8 joined the game
