@@ -307,3 +307,12 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated array at 
 [05Dec2024 03:05:34.864] [Worker-Main-66/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [05Dec2024 03:07:27.010] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: guevaracj8 lost connection: Disconnected
 [05Dec2024 03:07:27.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: guevaracj8 left the game
+[05Dec2024 03:20:04.714] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@66d67f9c
+[05Dec2024 03:20:04.718] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Farjef[/127.121.208.85:49357] logged in with entity id 27934 at (6320.831825342853, 208.0, -635.9594820760956)
+[05Dec2024 03:20:04.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Farjef joined the game
+[05Dec2024 03:20:04.916] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=6266, y=73, z=-598} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[05Dec2024 03:20:04.916] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=6268, y=72, z=-598} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[05Dec2024 03:20:04.917] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=6270, y=76, z=-598} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[05Dec2024 03:20:04.917] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=6266, y=72, z=-598} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[05Dec2024 03:20:34.667] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Farjef lost connection: Timed out
+[05Dec2024 03:20:34.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Farjef left the game
