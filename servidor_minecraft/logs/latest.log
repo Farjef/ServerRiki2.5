@@ -174,3 +174,21 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated array at 
 [05Dec2024 02:03:36.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: guevaracj8 moved too quickly! -1.614440029899015,0.9986640208878583,9.872459904518905
 [05Dec2024 02:03:36.637] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2433ms or 48 ticks behind
 [05Dec2024 02:03:37.908] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@32b1e5b8
+[05Dec2024 02:12:02.370] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: guevaracj8 lost connection: Disconnected
+[05Dec2024 02:12:02.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: guevaracj8 left the game
+[05Dec2024 02:14:06.710] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Farjef[/127.44.249.18:39805] logged in with entity id 5671 at (6322.073770198763, 208.0, -634.0637246769229)
+[05Dec2024 02:14:06.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Farjef joined the game
+[05Dec2024 02:14:07.023] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=6266, y=73, z=-598} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[05Dec2024 02:14:07.024] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=6268, y=72, z=-598} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[05Dec2024 02:14:07.024] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=6270, y=76, z=-598} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[05Dec2024 02:14:07.025] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=6266, y=72, z=-598} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[05Dec2024 02:19:18.082] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@34558fa3
+[05Dec2024 02:19:18.088] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: guevaracj8[/127.65.61.5:51795] logged in with entity id 6707 at (6256.799430981261, 72.0, -587.1528723096357)
+[05Dec2024 02:19:18.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: guevaracj8 joined the game
+[05Dec2024 02:20:19.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [guevaracj8: Teleported guevaracj8 to Farjef]
+[05Dec2024 02:21:24.269] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2ec34989
+[05Dec2024 02:22:24.463] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: guevaracj8 moved too quickly! 0.10435567569129489,-10.277411153802234,0.02086062127580135
+[05Dec2024 02:22:26.895] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: guevaracj8 moved too quickly! -0.008068247288065322,-13.13631135272658,-0.43974472579623125
+[05Dec2024 02:25:27.039] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2185ms or 43 ticks behind
+[05Dec2024 02:26:53.972] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Farjef moved too quickly! 0.0,-17.369530673208615,0.0
+[05Dec2024 02:26:54.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Farjef fell from a high place
