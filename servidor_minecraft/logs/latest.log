@@ -285,3 +285,12 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated array at 
 [07Dec2024 04:43:05.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Farjef: Gave 60 [item.tacz.ammo] to Farjef]
 [07Dec2024 04:45:51.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Farjef: Gave 1 [item.tacz.modern_kinetic_gun] to Farjef]
 [07Dec2024 04:46:02.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Farjef: Gave 1 [item.tacz.modern_kinetic_gun] to Farjef]
+[07Dec2024 04:47:36.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Farjef: Gave 1 [item.tacz.modern_kinetic_gun] to Farjef]
+[07Dec2024 04:50:31.192] [Server thread/INFO] [tacz/]: Model loading time: 2334.122 ms
+[07Dec2024 04:50:31.193] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2315ms or 46 ticks behind
+[07Dec2024 04:51:39.838] [Server thread/INFO] [tacz/]: Model loading time: 34.955 ms
+[07Dec2024 04:54:17.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Farjef: Gave 1 [item.tacz.modern_kinetic_gun] to Farjef]
+[07Dec2024 04:54:28.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Farjef: Gave 1 [item.tacz.modern_kinetic_gun] to Farjef]
+[07Dec2024 04:54:35.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Farjef: Gave 1 [item.tacz.ammo] to Farjef]
+[07Dec2024 04:54:55.744] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Farjef lost connection: Disconnected
+[07Dec2024 04:54:55.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Farjef left the game
