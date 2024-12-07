@@ -196,3 +196,48 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated array at 
 [07Dec2024 19:55:06.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Farjef: Gave 1 [item.tacz.modern_kinetic_gun] to Farjef]
 [07Dec2024 19:56:32.261] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Farjef lost connection: Disconnected
 [07Dec2024 19:56:32.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Farjef left the game
+[07Dec2024 20:02:35.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reloading!
+[07Dec2024 20:02:35.533] [Worker-ResourceReload-2/ERROR] [net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener/]: Couldn't parse data file nova_structures:chests/water_supply from nova_structures:loot_tables/chests/water_supply.json
+com.google.gson.JsonParseException: com.google.gson.stream.MalformedJsonException: Unterminated array at line 17 column 10 path $.pools[0].entries[1]
+	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:512) ~[server-1.19.2-20220805.130853-srg.jar%23147!/:?]
+	at net.minecraft.util.GsonHelper.m_13776_(GsonHelper.java:549) ~[server-1.19.2-20220805.130853-srg.jar%23147!/:?]
+	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.m_5944_(SimpleJsonResourceReloadListener.java:43) ~[server-1.19.2-20220805.130853-srg.jar%23147!/:?]
+	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.m_5944_(SimpleJsonResourceReloadListener.java:16) ~[server-1.19.2-20220805.130853-srg.jar%23147!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10786_(SimplePreparableReloadListener.java:11) ~[server-1.19.2-20220805.130853-srg.jar%23147!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
+Caused by: com.google.gson.stream.MalformedJsonException: Unterminated array at line 17 column 10 path $.pools[0].entries[1]
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1562) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:475) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.stream.JsonReader.hasNext(JsonReader.java:413) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TypeAdapters$27.read(TypeAdapters.java:675) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TypeAdapters$27.read(TypeAdapters.java:684) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TypeAdapters$27.read(TypeAdapters.java:676) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TypeAdapters$27.read(TypeAdapters.java:684) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TypeAdapters$27.read(TypeAdapters.java:655) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TypeAdapters$33$1.read(TypeAdapters.java:866) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:510) ~[server-1.19.2-20220805.130853-srg.jar%23147!/:?]
+	... 11 more
+[07Dec2024 20:02:35.630] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 23 recipes
+[07Dec2024 20:02:35.631] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Datapack tried to redefine minecraft:empty loot table, ignoring
+[07Dec2024 20:02:35.809] [Server thread/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement man:thetear: Non [a-z0-9/._-] character in path of location: man:tearoftheman
+
+[07Dec2024 20:02:35.851] [Server thread/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement undead_unleashed:it_burns: Task Advancement{parentId=undead_unleashed:deleted_mod_element, display=net.minecraft.advancements.DisplayInfo@79423719, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@4c497366}, criteria={it_burns=net.minecraft.advancements.Criterion@2a2f492}, requirements=[[it_burns]]}
+[07Dec2024 20:02:35.869] [Server thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2336 advancements
+[07Dec2024 20:02:35.950] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@62a33f8a
+[07Dec2024 20:07:25.742] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@82ab295
+[07Dec2024 20:07:25.749] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Farjef[/127.40.241.99:57601] logged in with entity id 6036 at (6298.332785627371, 70.0, -572.4707844779537)
+[07Dec2024 20:07:25.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Farjef joined the game
+[07Dec2024 20:07:25.959] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=6266, y=73, z=-598} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[07Dec2024 20:07:25.960] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=6268, y=72, z=-598} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[07Dec2024 20:07:25.961] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=6270, y=76, z=-598} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[07Dec2024 20:07:25.961] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=6266, y=72, z=-598} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[07Dec2024 20:07:26.204] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=6321, y=208, z=-639} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[07Dec2024 20:09:31.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Farjef was slain by Man From The Fog
+[07Dec2024 20:11:33.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Farjef> ya uno no puede ni comer tranquilo
+[07Dec2024 20:11:45.083] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2107ms or 42 ticks behind
