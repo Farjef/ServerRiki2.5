@@ -6767,3 +6767,22 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated array at 
 [07Dec2024 04:14:42.369] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=6270, y=76, z=-598} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
 [07Dec2024 04:14:42.369] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=6266, y=72, z=-598} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
 [07Dec2024 04:14:42.369] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=6321, y=208, z=-639} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[07Dec2024 04:17:20.824] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 04:17:20.828] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 04:22:20.830] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 04:22:20.834] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 04:27:20.821] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 04:27:20.825] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 04:29:25.686] [Server thread/INFO] [tacz/]: Model loading time: 3291.757 ms
+[07Dec2024 04:29:25.687] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3409ms or 68 ticks behind
+[07Dec2024 04:31:52.972] [Server thread/DEBUG] [de.cadentem.goatman.Goatman/]: Goatman could not pass the spawn checks, target: [ServerPlayer['Farjef'/12841, l='ServerLevel[world]', x=6264.50, y=76.00, z=-591.50]]
+[07Dec2024 04:31:53.279] [Server thread/DEBUG] [de.cadentem.goatman.Goatman/]: Goatman could not pass the spawn checks, target: [ServerPlayer['Farjef'/17388, l='ServerLevel[world]', x=6266.49, y=72.00, z=-592.67]]
+[07Dec2024 04:31:53.630] [Server thread/DEBUG] [de.cadentem.goatman.Goatman/]: Goatman could not pass the spawn checks, target: [ServerPlayer['Farjef'/17388, l='ServerLevel[world]', x=6266.49, y=72.00, z=-592.67]]
+[07Dec2024 04:31:54.129] [Server thread/DEBUG] [de.cadentem.goatman.Goatman/]: Goatman could not pass the spawn checks, target: [ServerPlayer['Farjef'/17388, l='ServerLevel[world]', x=6266.49, y=72.00, z=-592.67]]
+[07Dec2024 04:31:54.281] [Server thread/DEBUG] [de.cadentem.goatman.Goatman/]: Goatman could not pass the spawn checks, target: [ServerPlayer['Farjef'/17388, l='ServerLevel[world]', x=6266.49, y=72.00, z=-592.67]]
+[07Dec2024 04:31:55.228] [Server thread/DEBUG] [de.cadentem.goatman.Goatman/]: Goatman could not pass the spawn checks, target: [ServerPlayer['Farjef'/17388, l='ServerLevel[world]', x=6266.49, y=72.00, z=-592.67]]
+[07Dec2024 04:31:56.928] [Server thread/DEBUG] [de.cadentem.goatman.Goatman/]: Goatman could not pass the spawn checks, target: [ServerPlayer['Farjef'/17388, l='ServerLevel[world]', x=6266.49, y=72.00, z=-592.67]]
+[07Dec2024 04:32:24.224] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 04:32:24.230] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 04:35:56.867] [Server thread/INFO] [tacz/]: Model loading time: 2408.993 ms
+[07Dec2024 04:35:56.867] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2390ms or 47 ticks behind
