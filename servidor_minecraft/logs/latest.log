@@ -278,3 +278,11 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated array at 
 [07Dec2024 20:38:19.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Farjef> la grnaja de masdera esta muy rota
 [07Dec2024 20:38:55.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <guevaracj8> si vi si vi
 [07Dec2024 20:39:36.438] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4654a113
+[07Dec2024 20:47:33.296] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Farjef lost connection: Timed out
+[07Dec2024 20:47:33.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Farjef left the game
+[07Dec2024 20:47:33.484] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[07Dec2024 20:47:56.916] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@21623f35
+[07Dec2024 20:47:56.926] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Farjef[/127.97.159.222:60387] logged in with entity id 16810 at (6326.300000011921, 69.0, -630.6421957997883)
+[07Dec2024 20:47:56.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Farjef joined the game
+[07Dec2024 20:50:48.287] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2161ms or 43 ticks behind
+[07Dec2024 20:52:12.005] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2129ms or 42 ticks behind
