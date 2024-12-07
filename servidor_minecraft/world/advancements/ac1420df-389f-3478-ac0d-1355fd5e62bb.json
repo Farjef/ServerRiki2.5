@@ -4201,6 +4201,7 @@
       "cooked_mutton": "2024-10-24 23:58:25 +0000",
       "cooked_beef": "2024-10-24 23:43:41 +0000",
       "baked_potato": "2024-11-02 02:01:10 +0000",
+      "pumpkin_pie": "2024-12-07 21:24:18 +0000",
       "bread": "2024-10-22 03:09:09 +0000",
       "dried_kelp": "2024-11-11 00:10:23 +0000",
       "melon_slice": "2024-10-19 04:26:08 +0000",
@@ -4476,6 +4477,12 @@
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2024-10-21 03:11:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_dried_kelp_block": "2024-12-07 21:29:55 +0000"
     },
     "done": true
   },
