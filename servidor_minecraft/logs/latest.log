@@ -227,3 +227,17 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated array at 
 [07Dec2024 04:03:43.569] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Farjef moved too quickly! 0.3504843299087952,-12.200267550501849,0.653203247032252
 [07Dec2024 04:03:44.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Farjef fell from a high place
 [07Dec2024 04:05:58.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Farjef: Saved the game]
+[07Dec2024 04:06:53.565] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2988ms or 59 ticks behind
+[07Dec2024 04:07:33.354] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2927ms or 58 ticks behind
+[07Dec2024 04:07:43.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Farjef: Gave 15 [Bottle o' Enchanting] to Farjef]
+[07Dec2024 04:08:22.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Farjef: Gave 64 [Bottle o' Enchanting] to Farjef]
+[07Dec2024 04:14:19.202] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Farjef lost connection: Timed out
+[07Dec2024 04:14:19.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Farjef left the game
+[07Dec2024 04:14:42.138] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6898e2fe
+[07Dec2024 04:14:42.144] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Farjef[/127.44.249.18:52609] logged in with entity id 17388 at (6269.334640985461, 72.0, -595.5975329990094)
+[07Dec2024 04:14:42.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Farjef joined the game
+[07Dec2024 04:14:42.368] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=6266, y=73, z=-598} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[07Dec2024 04:14:42.368] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=6268, y=72, z=-598} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[07Dec2024 04:14:42.369] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=6270, y=76, z=-598} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[07Dec2024 04:14:42.369] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=6266, y=72, z=-598} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[07Dec2024 04:14:42.369] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=6321, y=208, z=-639} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
