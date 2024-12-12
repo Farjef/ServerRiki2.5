@@ -785,6 +785,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-12 03:54:24 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/materials/andesite_alloy": {
     "criteria": {
       "has_the_recipe": "2024-11-15 01:02:08 +0000"
@@ -3703,6 +3709,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2024-12-12 03:39:50 +0000",
       "minecraft:deep_ocean": "2024-11-10 22:35:45 +0000",
       "minecraft:eroded_badlands": "2024-10-25 00:33:23 +0000",
       "minecraft:birch_forest": "2024-11-02 05:06:09 +0000",
