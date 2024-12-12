@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/brass_hand": {
+    "criteria": {
+      "has_item": "2024-12-12 05:42:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2024-10-24 23:23:42 +0000"
@@ -122,6 +128,12 @@
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
       "has_planks": "2024-10-19 03:59:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/curiosities/peculiar_bell": {
+    "criteria": {
+      "has_item": "2024-12-12 05:42:43 +0000"
     },
     "done": true
   },
@@ -206,6 +218,12 @@
   "create:recipes/create.base/crafting/kinetics/metal_bracket": {
     "criteria": {
       "has_item": "2024-12-12 04:39:19 +0000"
+    },
+    "done": true
+  },
+  "create:brass": {
+    "criteria": {
+      "0": "2024-12-12 05:42:43 +0000"
     },
     "done": true
   },
@@ -365,6 +383,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/copycat_panel_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2024-12-12 05:41:28 +0000"
+    },
+    "done": true
+  },
   "undead_unleashed:shards_of_the_past": {
     "criteria": {
       "shards_of_the_past": "2024-10-19 05:13:27 +0000"
@@ -479,6 +503,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/andesite_alloy_from_zinc": {
+    "criteria": {
+      "has_item": "2024-12-12 05:41:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2024-10-19 04:03:47 +0000"
@@ -551,6 +581,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/brass_scaffolding_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2024-12-12 05:42:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_quartz": {
     "criteria": {
       "has_quartz_block": "2024-11-15 01:06:46 +0000"
@@ -608,6 +644,12 @@
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2024-10-30 23:36:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/logistics/brass_funnel": {
+    "criteria": {
+      "has_item": "2024-12-12 05:42:43 +0000"
     },
     "done": true
   },
@@ -1079,6 +1121,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/brass_bars_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2024-12-12 05:42:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2024-10-30 23:36:15 +0000"
@@ -1148,6 +1196,12 @@
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_planks": "2024-10-19 04:07:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/brass_ladder_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2024-12-12 05:42:43 +0000"
     },
     "done": true
   },
@@ -1369,6 +1423,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/brass_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2024-12-12 05:42:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2024-10-19 04:10:01 +0000"
@@ -1516,6 +1576,12 @@
   "create:recipes/create.palettes/copper_tiles_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2024-11-15 00:43:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/rose_quartz_lamp": {
+    "criteria": {
+      "has_item": "2024-12-12 05:41:28 +0000"
     },
     "done": true
   },
@@ -2012,6 +2078,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/gearbox": {
+    "criteria": {
+      "has_item": "2024-12-12 05:39:20 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_deepslate_brick_wall_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2024-11-29 03:29:04 +0000"
@@ -2189,6 +2261,12 @@
   "create:recipes/create.palettes/cut_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2024-11-29 03:29:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/materials/brass_block_from_compacting": {
+    "criteria": {
+      "has_item": "2024-12-12 05:42:43 +0000"
     },
     "done": true
   },
@@ -2474,6 +2552,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/attribute_filter": {
+    "criteria": {
+      "has_item": "2024-12-12 05:42:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2024-10-19 04:10:01 +0000"
@@ -2579,6 +2663,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2024-10-19 04:55:20 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_mixer": {
+    "criteria": {
+      "0": "2024-12-12 05:42:42 +0000"
     },
     "done": true
   },
@@ -2963,6 +3053,12 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2024-10-19 04:52:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/zinc_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2024-12-12 05:41:28 +0000"
     },
     "done": true
   },
@@ -3382,6 +3478,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/elevator_pulley": {
+    "criteria": {
+      "has_item": "2024-12-12 05:42:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2024-10-19 04:21:03 +0000"
@@ -3481,6 +3583,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2024-10-19 04:55:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/copycat_step_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2024-12-12 05:41:28 +0000"
     },
     "done": true
   },
@@ -3654,6 +3762,12 @@
       "minecraft:plains": "2024-10-19 04:02:27 +0000"
     },
     "done": false
+  },
+  "create:recipes/create.base/crafting/kinetics/flywheel": {
+    "criteria": {
+      "has_item": "2024-12-12 05:42:43 +0000"
+    },
+    "done": true
   },
   "create:recipes/create.palettes/small_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
@@ -4015,6 +4129,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/materials/zinc_block_from_compacting": {
+    "criteria": {
+      "has_item": "2024-12-12 05:41:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-10-19 05:33:47 +0000"
@@ -4074,6 +4194,12 @@
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2024-10-22 02:48:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/vertical_gearbox": {
+    "criteria": {
+      "has_item": "2024-12-12 05:39:20 +0000"
     },
     "done": true
   },
@@ -4653,6 +4779,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/logistics/brass_tunnel": {
+    "criteria": {
+      "has_item": "2024-12-12 05:42:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-10-30 23:36:17 +0000"
@@ -4704,6 +4836,12 @@
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2024-10-19 04:07:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/placard": {
+    "criteria": {
+      "has_item": "2024-12-12 05:42:43 +0000"
     },
     "done": true
   },
