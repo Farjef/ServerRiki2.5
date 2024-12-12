@@ -2738,6 +2738,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_the_recipe": "2024-12-12 05:48:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-10-19 04:36:11 +0000"

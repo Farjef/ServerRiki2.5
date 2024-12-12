@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/mechanical_bearing": {
+    "criteria": {
+      "has_item": "2024-12-12 05:50:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_button": {
     "criteria": {
       "has_planks": "2024-10-19 04:07:10 +0000"
@@ -707,6 +713,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/mechanical_drill": {
+    "criteria": {
+      "has_item": "2024-12-12 05:50:43 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_granite_brick_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-05 02:01:48 +0000"
@@ -866,6 +878,12 @@
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2024-10-30 23:53:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/millstone": {
+    "criteria": {
+      "has_item": "2024-12-12 05:50:43 +0000"
     },
     "done": true
   },
@@ -1345,6 +1363,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/gantry_carriage": {
+    "criteria": {
+      "has_item": "2024-12-12 05:50:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-10-19 04:53:32 +0000"
@@ -1414,6 +1438,12 @@
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2024-10-21 03:26:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/weighted_ejector": {
+    "criteria": {
+      "has_item": "2024-12-12 05:50:43 +0000"
     },
     "done": true
   },
@@ -1627,6 +1657,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/mechanical_saw": {
+    "criteria": {
+      "has_item": "2024-12-12 05:50:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_sand": "2024-10-19 04:55:20 +0000"
@@ -1745,6 +1781,12 @@
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2024-10-24 23:31:54 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2024-12-12 05:50:40 +0000"
     },
     "done": true
   },
@@ -2396,6 +2438,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/andesite_door": {
+    "criteria": {
+      "has_item": "2024-12-12 05:50:43 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/filter": {
     "criteria": {
       "has_item": "2024-12-12 04:39:19 +0000"
@@ -2510,6 +2558,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/mechanical_roller": {
+    "criteria": {
+      "has_item": "2024-12-12 05:50:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-11-25 00:57:32 +0000"
@@ -2582,6 +2636,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/clutch": {
+    "criteria": {
+      "has_item": "2024-12-12 05:50:43 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-11-29 03:16:31 +0000"
@@ -2627,6 +2687,12 @@
   "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-11-25 00:57:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/gearshift": {
+    "criteria": {
+      "has_item": "2024-12-12 05:50:43 +0000"
     },
     "done": true
   },
@@ -3241,6 +3307,12 @@
   "create:recipes/create.base/crafting/kinetics/cart_assembler": {
     "criteria": {
       "has_item": "2024-12-12 04:39:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/mechanical_press": {
+    "criteria": {
+      "has_item": "2024-12-12 05:50:43 +0000"
     },
     "done": true
   },
@@ -3865,6 +3937,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-12 05:49:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_granite_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-05 02:01:48 +0000"
@@ -4021,6 +4099,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/mechanical_piston": {
+    "criteria": {
+      "has_item": "2024-12-12 05:50:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2024-10-30 23:53:25 +0000"
@@ -4102,6 +4186,12 @@
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2024-11-02 02:13:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/mechanical_plough": {
+    "criteria": {
+      "has_item": "2024-12-12 05:50:43 +0000"
     },
     "done": true
   },
@@ -4311,6 +4401,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/depot": {
+    "criteria": {
+      "has_item": "2024-12-12 05:50:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2024-10-19 04:34:35 +0000"
@@ -4344,6 +4440,12 @@
   "create:recipes/create.base/crafting/kinetics/mechanical_pump": {
     "criteria": {
       "has_item": "2024-11-15 00:43:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/portable_storage_interface": {
+    "criteria": {
+      "has_item": "2024-12-12 05:50:43 +0000"
     },
     "done": true
   },
@@ -4803,6 +4905,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/encased_chain_drive": {
+    "criteria": {
+      "has_item": "2024-12-12 05:50:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2024-10-19 05:01:07 +0000"
@@ -4920,6 +5028,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2024-10-19 04:52:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/mechanical_harvester": {
+    "criteria": {
+      "has_item": "2024-12-12 05:50:43 +0000"
     },
     "done": true
   },

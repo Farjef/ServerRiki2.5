@@ -297,3 +297,12 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated array at 
 [12Dec2024 05:14:04.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [guevaracj8: Teleported guevaracj8 to Farjef]
 [12Dec2024 05:14:20.385] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: guevaracj8 moved too quickly! -0.17324612839274778,-15.09155944446718,-1.033580615150754
 [12Dec2024 05:47:20.104] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2402ms or 48 ticks behind
+[12Dec2024 05:50:40.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: guevaracj8 has made the advancement [The Andesite Age]
+[12Dec2024 05:51:20.917] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: guevaracj8 lost connection: Timed out
+[12Dec2024 05:51:20.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: guevaracj8 left the game
+[12Dec2024 05:51:20.964] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[12Dec2024 05:51:35.672] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3cf9157
+[12Dec2024 05:51:35.679] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: guevaracj8[/127.34.168.160:42507] logged in with entity id 22736 at (6180.799290685372, 79.0, -628.379378811118)
+[12Dec2024 05:51:35.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: guevaracj8 joined the game
+[12Dec2024 05:54:42.666] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: guevaracj8 lost connection: Disconnected
+[12Dec2024 05:54:42.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: guevaracj8 left the game
