@@ -235,3 +235,32 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated array at 
 [12Dec2024 04:06:21.996] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11094ms or 221 ticks behind
 [12Dec2024 04:06:59.732] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2130ms or 42 ticks behind
 [12Dec2024 04:07:26.089] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11386ms or 227 ticks behind
+[12Dec2024 04:08:03.428] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3325ms or 66 ticks behind
+[12Dec2024 04:08:29.111] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10709ms or 214 ticks behind
+[12Dec2024 04:08:50.981] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6879ms or 137 ticks behind
+[12Dec2024 04:09:10.376] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4424ms or 88 ticks behind
+[12Dec2024 04:09:33.616] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8264ms or 165 ticks behind
+[12Dec2024 04:10:00.727] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12125ms or 242 ticks behind
+[12Dec2024 04:10:12.127] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: guevaracj8 lost connection: Disconnected
+[12Dec2024 04:10:12.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: guevaracj8 left the game
+[12Dec2024 04:10:17.058] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@791cea87
+[12Dec2024 04:10:17.065] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: guevaracj8[/127.112.246.163:42887] logged in with entity id 11786 at (6224.300000011921, 75.0, -623.5196818862333)
+[12Dec2024 04:10:17.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: guevaracj8 joined the game
+[12Dec2024 04:10:24.180] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8477ms or 169 ticks behind
+[12Dec2024 04:10:50.533] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11380ms or 227 ticks behind
+[12Dec2024 04:11:28.599] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 23097ms or 461 ticks behind
+[12Dec2024 04:11:53.659] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10107ms or 202 ticks behind
+[12Dec2024 04:12:27.381] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18729ms or 374 ticks behind
+[12Dec2024 04:12:45.630] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3278ms or 65 ticks behind
+[12Dec2024 04:13:16.249] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15646ms or 312 ticks behind
+[12Dec2024 04:13:35.165] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3963ms or 79 ticks behind
+[12Dec2024 04:14:09.913] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19761ms or 395 ticks behind
+[12Dec2024 04:14:27.051] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2149ms or 42 ticks behind
+[12Dec2024 04:14:46.865] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4862ms or 97 ticks behind
+[12Dec2024 04:15:11.431] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9579ms or 191 ticks behind
+[12Dec2024 04:15:44.442] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18040ms or 360 ticks behind
+[12Dec2024 04:16:08.794] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9392ms or 187 ticks behind
+[12Dec2024 04:16:42.469] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18716ms or 374 ticks behind
+[12Dec2024 04:16:46.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: guevaracj8 has made the advancement [Iron, but dark]
+[12Dec2024 04:17:05.991] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8539ms or 170 ticks behind
+[12Dec2024 04:17:30.659] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2307ms or 46 ticks behind
