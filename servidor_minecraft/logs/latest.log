@@ -289,3 +289,10 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated array at 
 [12Dec2024 04:49:58.589] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2487ms or 49 ticks behind
 [12Dec2024 05:07:48.464] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Farjef lost connection: Disconnected
 [12Dec2024 05:07:48.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Farjef left the game
+[12Dec2024 05:10:39.799] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6246, y=47, z=-715} BlockPos{x=6246, y=48, z=-715}
+[12Dec2024 05:10:46.329] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@104ce9b7
+[12Dec2024 05:10:46.336] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Farjef[/127.97.159.222:41327] logged in with entity id 18302 at (6324.063104713661, 212.0, -630.8373284114963)
+[12Dec2024 05:10:46.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Farjef joined the game
+[12Dec2024 05:11:17.171] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6227, y=57, z=-796} BlockPos{x=6227, y=56, z=-796}
+[12Dec2024 05:14:04.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [guevaracj8: Teleported guevaracj8 to Farjef]
+[12Dec2024 05:14:20.385] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: guevaracj8 moved too quickly! -0.17324612839274778,-15.09155944446718,-1.033580615150754
