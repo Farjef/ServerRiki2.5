@@ -2660,6 +2660,12 @@
     },
     "done": true
   },
+  "create:super_glue": {
+    "criteria": {
+      "0": "2024-12-12 05:06:08 +0000"
+    },
+    "done": true
+  },
   "create:mechanical_press": {
     "criteria": {
       "0": "2024-11-15 01:12:09 +0000"
