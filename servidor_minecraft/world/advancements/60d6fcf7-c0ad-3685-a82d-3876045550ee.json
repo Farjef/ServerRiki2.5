@@ -359,6 +359,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/logistics/pulse_repeater": {
+    "criteria": {
+      "has_item": "2024-12-12 05:23:06 +0000"
+    },
+    "done": true
+  },
   "undead_unleashed:shards_of_the_past": {
     "criteria": {
       "shards_of_the_past": "2024-10-19 05:13:27 +0000"
@@ -440,6 +446,12 @@
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2024-11-29 04:33:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/deployer": {
+    "criteria": {
+      "has_item": "2024-12-12 05:27:55 +0000"
     },
     "done": true
   },
@@ -1489,6 +1501,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/logistics/powered_toggle_latch": {
+    "criteria": {
+      "has_item": "2024-12-12 05:23:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2024-10-19 05:33:47 +0000"
@@ -1498,6 +1516,12 @@
   "create:recipes/create.palettes/copper_tiles_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2024-11-15 00:43:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/whisk": {
+    "criteria": {
+      "has_item": "2024-12-12 05:27:33 +0000"
     },
     "done": true
   },
@@ -1637,6 +1661,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2024-10-19 04:52:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/encased_fan": {
+    "criteria": {
+      "has_item": "2024-12-12 05:27:33 +0000"
     },
     "done": true
   },
@@ -1865,6 +1895,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/anvil_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-11-02 03:22:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/rose_quartz": {
+    "criteria": {
+      "has_item": "2024-12-12 05:23:06 +0000"
     },
     "done": true
   },
@@ -2378,6 +2414,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/logistics/pulse_extender": {
+    "criteria": {
+      "has_item": "2024-12-12 05:23:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/materials/andesite_alloy_block": {
     "criteria": {
       "has_item": "2024-12-12 04:39:19 +0000"
@@ -2477,6 +2519,12 @@
   "create:recipes/building_blocks/diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-11-29 03:16:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/logistics/powered_latch": {
+    "criteria": {
+      "has_item": "2024-12-12 05:23:06 +0000"
     },
     "done": true
   },
@@ -3055,6 +3103,12 @@
   "create:recipes/create.base/crafting/schematics/empty_schematic": {
     "criteria": {
       "has_item": "2024-11-15 00:23:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/adjustable_chain_gearshift": {
+    "criteria": {
+      "has_item": "2024-12-12 05:27:55 +0000"
     },
     "done": true
   },
@@ -4173,6 +4227,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/curiosities/brown_toolbox": {
+    "criteria": {
+      "has_item": "2024-12-12 05:27:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2024-10-19 03:59:10 +0000"
@@ -4377,6 +4437,12 @@
     },
     "done": true
   },
+  "create:belt": {
+    "criteria": {
+      "0": "2024-12-12 05:18:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2024-10-24 23:38:16 +0000"
@@ -4410,6 +4476,12 @@
   "create:recipes/create.palettes/cut_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-11-29 03:16:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/propeller": {
+    "criteria": {
+      "has_item": "2024-12-12 05:27:33 +0000"
     },
     "done": true
   },
@@ -4530,6 +4602,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2024-10-19 04:33:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/super_glue": {
+    "criteria": {
+      "has_item": "2024-12-12 05:27:33 +0000"
     },
     "done": true
   },
