@@ -178,3 +178,7 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated array at 
 [12Dec2024 03:08:25.852] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=6266, y=72, z=-598} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
 [12Dec2024 03:08:28.322] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=6321, y=208, z=-639} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
 [12Dec2024 03:08:30.006] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
+[12Dec2024 03:20:40.213] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@19bf02ed
+[12Dec2024 03:23:40.099] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Farjef[/127.97.159.222:44655] logged in with entity id 2396 at (6318.75526116421, 165.58287227511747, -626.9730290189837)
+[12Dec2024 03:23:40.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Farjef joined the game
+[12Dec2024 03:26:49.333] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2080ms or 41 ticks behind
